@@ -23,9 +23,9 @@
 
 ## an 18-year-old programmer and professional daydreamer!
 
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I'm Looking Forward to collaborate
 - 🥅 2023 Goals: Learn more about AI and machine learning
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: To Try new technologies
 
 
 
