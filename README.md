@@ -27,7 +27,7 @@
 - 🥅 2023 Goals: Learn more about AI and machine learning
 - ⚡ Fun fact: To Try new technologies
 
-
+----
 
 ### 💾 Databases
 
@@ -105,18 +105,16 @@
 
 <img align="left" width="7%" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img align="left" width="10%" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
-<img align="left" width="10%" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+<img  width="10%" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 
----
+
+----
 
 <br/>
-<br/>
-<br/>
-
 
 ## Github Stats  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ChandanGowda2005&show_icons=true&theme=radical">
+<img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=ChandanGowda2005&show_icons=true&theme=radical">
 <img  width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanGowda2005&layout=compact">
 
 <br/>
