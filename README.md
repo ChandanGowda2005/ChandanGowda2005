@@ -27,7 +27,6 @@
 - 🥅 2023 Goals: Learn more about AI and machine learning
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-<br/>  
 
 
 ### 💾 Databases
@@ -38,7 +37,7 @@
 
 <br/>  
 <br/> 
-<br/>
+
 
 
 ### 📚 Frameworks, Platforms and Libraries
@@ -50,7 +49,7 @@
 <img align="left" width="10%" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
 
 <br/>  
-<br/>
+
 <br/>  
 
 ### ☁️ Hosting/SaaS
@@ -60,7 +59,7 @@
 
 <br/>  
 <br/>  
-<br/>
+
 
 ### 💻 IDEs/Editors
 
@@ -71,8 +70,7 @@
 <img align="left" width="5%" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
 <img align="left" width="10%" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 
-<br/>  
-<br/> 
+<br/>   
 <br/>
 
 ### 📋 Languages
@@ -84,7 +82,6 @@
 
 <br/>  
 <br/> 
-<br/>
 
 
 ### 🖥️ ML/DL
