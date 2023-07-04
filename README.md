@@ -25,7 +25,7 @@
 <br/>  
 <br/> 
 
-## an 18-year-old programmer and professional daydreamer!
+## an 18-year-old programmer 
 
 - 👯 I'm Looking Forward to collaborate
 - 🥅 2023 Goals: Learn more about AI and machine learning
